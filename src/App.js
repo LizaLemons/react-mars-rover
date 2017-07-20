@@ -146,10 +146,14 @@ class App extends Component {
           </p>
           <span>Data provided by NASA.</span><br />
           <span>Each photo was taken on the rover's 100th sol (day) on Mars.</span><br /><br />
+
           <span>Dates active on Mars:</span><br />
           <span>Spirit: 2004-2010</span><br />
           <span>Opportunity: 2004 - present</span><br />
-          <span>Curiosity: 2012 - present</span><br />
+          <span>Curiosity: 2012 - present</span><br /><br />
+
+          <span><a href="https://github.com/LizaLemons/react-mars-rover">Check out the code here!</a></span>
+
         </div><br /><br />
 
         <div>
